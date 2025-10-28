@@ -1,4 +1,3 @@
-
 import { Story } from '../types';
 
 export const stories: Story[] = [
@@ -12,7 +11,7 @@ export const stories: Story[] = [
       "He tied the pot in front of him and tried to climb. But the pot kept bumping his knees, making it impossible! His little son, Ntikuma, watching from below, said, 'Father, why don't you tie the pot to your back?'",
       "Anansi did, and easily climbed the tree. But he was so annoyed that a child was wiser than him, he threw the pot down. It shattered, and wisdom spread all over the world for everyone to share."
     ],
-    image: "https://picsum.photos/seed/ghana-spider/600/400",
+    image: "https://picsum.photos/seed/Anansi the spider in Ghana/600/400",
     patternColor: "bg-yellow-200",
   },
   {
@@ -25,7 +24,7 @@ export const stories: Story[] = [
       "'Please, let me go!' squeaked the mouse. 'If you do, I will help you one day!' The lion laughed at the idea but let the mouse go.",
       "Later, the lion was caught in a hunter's net. He roared for help, and the little mouse heard him. The mouse gnawed through the ropes with his sharp teeth, setting the lion free. The lion was very grateful."
     ],
-    image: "https://picsum.photos/seed/kenya-lion/600/400",
+    image: "https://picsum.photos/seed/The Lion and Mouse in Kenya/600/400",
     patternColor: "bg-orange-200",
   },
   {
@@ -38,7 +37,7 @@ export const stories: Story[] = [
       "He told them his name for the feast was 'All of You'. When the food was served, he asked, 'Who is this for?' The hosts said, 'For all of you!' So, the tortoise ate everything.",
       "Angry, the birds took back their feathers. To get down, the tortoise asked them to tell his wife to put soft things on the ground. Instead, the birds told her to put out hard things. The tortoise jumped and his shell cracked into many pieces."
     ],
-    image: "https://picsum.photos/seed/nigeria-tortoise/600/400",
+    image: "https://picsum.photos/seed/The Tortoise with a cracked shell in Nigeria/600/400",
     patternColor: "bg-green-200",
   },
   {
@@ -51,7 +50,7 @@ export const stories: Story[] = [
       "One day, a great storm was coming. The village chief asked Kofi to warn the other villages. Kofi played his drum, and the rhythm echoed through the valleys: 'Big storm... coming... find shelter!'",
       "The other villages heard the drum's message. Everyone found safety before the storm hit. They were all saved because they listened to the talking drum."
     ],
-    image: "https://picsum.photos/seed/senegal-drum/600/400",
+    image: "https://picsum.photos/seed/The Talking Drum of Senegal/600/400",
     patternColor: "bg-red-200",
   },
   {
@@ -64,7 +63,7 @@ export const stories: Story[] = [
       "He tried to walk on both paths at once, spreading his legs wider and wider. He stretched and stretched until... SNAP! He split in half.",
       "Because he was too greedy and wanted everything for himself, he ended up with nothing at all."
     ],
-    image: "https://picsum.photos/seed/ethiopia-hyena/600/400",
+    image: "https://picsum.photos/seed/The Greedy Hyena in Ethiopia/600/400",
     patternColor: "bg-stone-300",
   },
   {
@@ -77,7 +76,7 @@ export const stories: Story[] = [
       "A brave zebra challenged the baboon for the water. They fought a great battle next to the baboon's fire. The zebra kicked the baboon so hard, he stumbled into the fire.",
       "As he did, burning sticks flew out and landed on the zebra's white coat. The sticks left black stripes all over him, and from that day on, all zebras were born with stripes."
     ],
-    image: "https://picsum.photos/seed/namibia-zebra/600/400",
+    image: "https://picsum.photos/seed/How the Zebra from Namibia got its stripes/600/400",
     patternColor: "bg-blue-200",
   },
   {
@@ -90,7 +89,7 @@ export const stories: Story[] = [
       "The rabbit had an idea. He shouted to the biggest crocodile, 'The Pharaoh wants to count you all! Line up from this bank to the other so I can run across your backs and count you.'",
       "The proud crocodiles lined up. The rabbit hopped from back to back, shouting 'One, two, three...' until he reached the other side. '...and you're all very foolish!' he yelled as he ran off to eat the sugarcane."
     ],
-    image: "https://picsum.photos/seed/egypt-rabbit/600/400",
+    image: "https://picsum.photos/seed/The Clever Rabbit and Crocodile in Egypt/600/400",
     patternColor: "bg-amber-200",
   },
   {
@@ -103,7 +102,7 @@ export const stories: Story[] = [
       "During a long drought, a young girl named Aina remembered the stories. She went to the tree and sang a song of respect and thanks. 'Oh great Baobab, we are thirsty. Please share your gift.'",
       "A small crack opened in the trunk, and fresh, clean water flowed out, enough for the whole village. The people learned to always be thankful for nature's gifts."
     ],
-    image: "https://picsum.photos/seed/madagascar-tree/600/400",
+    image: "https://picsum.photos/seed/The Magical Baobab Tree in Madagascar/600/400",
     patternColor: "bg-lime-200",
   },
   {
@@ -116,7 +115,7 @@ export const stories: Story[] = [
       "To save her village, Nyami went to the river source and prayed to the spirits to take her as a sacrifice in exchange for water. The spirits agreed, and she walked into the mountain.",
       "Where she disappeared, a great waterfall burst forth, filling the river and saving her people. The waterfall, Mosi-oa-Tunya, is a reminder of her loving sacrifice."
     ],
-    image: "https://picsum.photos/seed/zimbabwe-waterfall/600/400",
+    image: "https://picsum.photos/seed/The Woman who became a Waterfall in Zimbabwe/600/400",
     patternColor: "bg-cyan-200",
   },
   {
@@ -129,7 +128,7 @@ export const stories: Story[] = [
       "One day, a grumpy millipede came to town and refused to share anything. He saw the Shongololo giving away cakes and scoffed.",
       "A wise old chameleon saw this and decided to teach a lesson. He used his magic to make all the grumpy millipede's berries taste sour, but made the Shongololo's berries twice as sweet. The grumpy millipede learned that sharing makes life sweeter for everyone."
     ],
-    image: "https://picsum.photos/seed/sa-millepede/600/400",
+    image: "https://picsum.photos/seed/The Shongololo and Millipede in South Africa/600/400",
     patternColor: "bg-purple-200",
   },
 ];
